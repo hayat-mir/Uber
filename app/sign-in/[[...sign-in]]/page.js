@@ -6,7 +6,7 @@ export default function Page() {
     <>
       <div>
         <Image
-          src="/uber-banner.jpg"
+          src="/uberbanner.jpeg"
           width={900}
           height={1000}
           className="object-contain h-full w-full"
